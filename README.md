@@ -1,3 +1,3 @@
 # Samples
 
-This repository includes Samples
+This repository includes samples

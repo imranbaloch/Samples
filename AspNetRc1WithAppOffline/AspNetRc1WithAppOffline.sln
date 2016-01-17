@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3DD5F19E-4532-4CEA-A3AE-BFAFA6F6BA8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08DE45D9-1D42-40DD-8A7D-7E457425FB77}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AspNetRc1WithAppOffline", "src\AspNetRc1WithAppOffline\AspNetRc1WithAppOffline.xproj", "{D7DE4D4C-EEA1-4E81-AF08-48F0AB13FC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7DE4D4C-EEA1-4E81-AF08-48F0AB13FC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DE4D4C-EEA1-4E81-AF08-48F0AB13FC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DE4D4C-EEA1-4E81-AF08-48F0AB13FC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DE4D4C-EEA1-4E81-AF08-48F0AB13FC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D7DE4D4C-EEA1-4E81-AF08-48F0AB13FC34} = {3DD5F19E-4532-4CEA-A3AE-BFAFA6F6BA8C}
+	EndGlobalSection
+EndGlobal
